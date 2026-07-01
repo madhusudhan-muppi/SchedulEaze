@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Microsoft Office temporary/lock files
+~$*
+.~lock.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large Word Document reports (keep the PDF in Git, ignore the heavy Word docs)
+*.docx
+
+# Environment variables / Local passwords
+.env
+

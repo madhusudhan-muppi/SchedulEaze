@@ -1,0 +1,21 @@
+Class,Section,Subject,Teacher
+XI,A,Mathematics,Deepa
+XI,A,Physics,Karpagam
+XI,A,Chemistry,Sampath
+XI,A,English,Sudha
+XI,A,Biology,Meena
+XI,B,Mathematics,Deepa
+XI,B,Physics,Karpagam
+XI,B,Chemistry,Sampath
+XI,B,English,Shinu
+XI,B,Computer Science,Hemalatha
+XII,A,Mathematics,Srividhya
+XII,A,Physics,Karpagam
+XII,A,Chemistry,Sampath
+XII,A,English,Shinu
+XII,A,Biology,Meena
+XII,B,Mathematics,Deepa
+XII,B,Physics,Karpagam
+XII,B,Chemistry,Sampath
+XII,B,English,Sudha
+XII,B,Computer Science,Hemalatha
